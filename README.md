@@ -1,60 +1,57 @@
-# Técnicas de Desenvolvimento de Algoritmos 🐍  
+# 🐍 Técnicas de Desenvolvimento de Algoritmos  
 
-Este repositório contém materiais, exercícios e exemplos práticos da disciplina **Técnicas de Desenvolvimento de Algoritmos**, utilizando a linguagem **Python** como ferramenta principal para implementação dos algoritmos.  
+Este repositório reúne **materiais, exercícios e projetos** da disciplina **Técnicas de Desenvolvimento de Algoritmos**, utilizando a linguagem **Python** como ferramenta principal para implementação de soluções.  
 
 ---
 
-## 📌 Objetivos da disciplina
-- Desenvolver o raciocínio lógico para resolução de problemas.  
-- Aprender a estruturar algoritmos usando **pseudocódigo** e **fluxogramas**.  
-- Implementar soluções computacionais em **Python**.  
-- Explorar boas práticas de programação e organização de código.  
+## 🎯 Objetivos da Disciplina
+- Desenvolver o raciocínio lógico e a capacidade de resolver problemas.  
+- Aprender a estruturar algoritmos usando **pseudocódigo**, **fluxogramas** e **Python**.  
+- Dominar conceitos fundamentais de programação: variáveis, estruturas de decisão, laços de repetição e modularização.  
+- Aplicar boas práticas de programação em Python.  
 
 ---
 
 ## 📚 Conteúdo Programático
-1. **Fundamentos de Lógica e Algoritmos**  
-   - Problemas computacionais e etapas da resolução  
-   - Variáveis, constantes e tipos de dados em Python  
-   - Operadores aritméticos, relacionais e lógicos  
+1. **Introdução ao Python**
+   - Instalação e configuração do ambiente  
+   - Tipos de dados, variáveis e operadores  
+   - Entrada e saída de dados  
 
-2. **Estruturas de Controle**  
-   - Sequência  
+2. **Estruturas de Controle**
    - Condicionais (`if`, `elif`, `else`)  
-   - Laços de repetição (`for`, `while`)  
+   - Estruturas de repetição (`for`, `while`)  
 
-3. **Coleções em Python**  
-   - Listas, tuplas, conjuntos e dicionários  
+3. **Coleções em Python**
+   - Listas, tuplas, dicionários e conjuntos  
    - Iteração e manipulação de dados  
 
-4. **Funções e Modularização**  
-   - Definição e chamada de funções  
-   - Parâmetros e valores de retorno  
+4. **Funções**
+   - Definição, parâmetros e retorno de valores  
    - Escopo de variáveis  
+   - Modularização do código  
 
-5. **Manipulação de Arquivos**  
-   - Leitura e escrita de arquivos de texto  
+5. **Manipulação de Arquivos**
+   - Leitura e escrita em arquivos de texto  
 
-6. **Projetos Práticos**  
-   - Exercícios integradores  
-   - Miniaplicações em Python  
+6. **Projetos Práticos**
+   - Aplicações integradoras com Python  
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
-- [Python 3.x](https://www.python.org/downloads/)  
+## 🛠️ Tecnologias Utilizadas
+- **Python 3.x**  
 - [Visual Studio Code](https://code.visualstudio.com/) ou [PyCharm](https://www.jetbrains.com/pycharm/)  
-- [Google Colab](https://colab.research.google.com/) (opcional, para prática online)  
+- [Google Colab](https://colab.research.google.com/) (para prática online)  
 - [Draw.io](https://app.diagrams.net/) para fluxogramas  
 
 ---
 
 ## 📂 Estrutura do Repositório
 ```bash
-📦 tecnicas-algoritmos
- ┣ 📂 aulas            # Códigos apresentados em sala
- ┣ 📂 exercicios       # Listas de exercícios resolvidos
- ┣ 📂 projetos         # Projetos práticos da disciplina
- ┣ 📂 materiais        # Apostilas, slides, artigos de apoio
- ┣ README.md           # Documentação do repositório
-
+📦 tecnicas-desenvolvimento-algoritmos
+ ┣ 📂 aulas/         # Exemplos vistos em sala
+ ┣ 📂 exercicios/    # Listas de exercícios
+ ┣ 📂 projetos/      # Projetos práticos da disciplina
+ ┣ 📂 materiais/     # Slides e apostilas de apoio
+ ┣ README.md         # Documentação principal
